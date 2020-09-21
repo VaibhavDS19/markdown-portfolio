@@ -1,3 +1,3 @@
-##My Portfolio
-###Vaibhav D S
-###Vidya Vardhaka College of Engineering
+## My Portfolio
+### Vaibhav D S
+### Vidya Vardhaka College of Engineering
